@@ -1,0 +1,32 @@
+.form-label{
+    text-transform: uppercase;
+}
+.form-control{
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.form-group{
+    position: relative;
+    clear: both;
+    margin-bottom: 20px;
+}
+.btn-ABM{
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: 1px;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+.scale-cards{
+    transform: scale(0);
+    transition:1s;
+    
+}
+
