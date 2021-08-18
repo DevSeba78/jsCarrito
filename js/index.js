@@ -1,10 +1,11 @@
 
 //let divimg = document.getElementById("main")
-//let botonBuscar = document.getElementById("buscarB")
+
 //let filtrados = document.getElementById("filtrados")
 //let fotosTraidas = JSON.parse(localStorage.getItem("imgsNuevos"))
 let head = document.getElementById("head")
 head.setAttribute("style","background-color: #212529")
+let botonBuscar = document.getElementById("buscarB")
 let items = document.getElementById("items");
 let foot = document.getElementById("footer");
 let carrito= {}
